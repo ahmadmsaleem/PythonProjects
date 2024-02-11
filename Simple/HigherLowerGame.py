@@ -1,3 +1,6 @@
+#This Python script prompts the user to input lower and upper bounds, and then asks for a guess within that range. 
+#If the guess matches a randomly generated number, the user wins. 
+#If not, they are prompted to try again until they guess correctly.
 import random
 def exists(variable):
     try:
